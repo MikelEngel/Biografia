@@ -1,0 +1,92 @@
+* {
+
+    font-family: sans-serif;
+}
+
+
+header {
+
+    position: relative;
+    margin: auto;
+    width: auto;
+    height: 100px;
+    background: url(img/binario.jpg);
+    
+}
+
+section {
+    position: relative;
+    margin: auto;
+    width: 2000px;
+    height: 500px;
+    background: red;
+
+}
+
+.nombre {
+
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#slide {
+    position: relative;
+    margin: auto;
+    width: 730;
+    height: 723px;
+    background: blue;
+
+}
+
+#botonesSlide {
+
+    position: relative;
+    margin: auto;
+    width: 730px;
+    height: 26px;
+    background: red;
+}
+
+#botonesSlide ul {
+
+    position: relative;
+    margin: auto;
+    width: 100px;
+    height: 26px;
+    background: blue;   
+}
+
+#botonesSlide ul li {
+    float: left;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background: black;
+    border: 3px solid white;
+    margin: 3px 2px;
+
+}
+
+section {
+    position: relative;
+    margin: auto;
+    width: 1500px;
+    height: 750px;
+    background: yellow;
+
+}
+
+section ul li {
+    float: left;
+    width: 730px;
+    height: 750px;
+    background: gray;
+}
+
+img {
+    width: 730px;
+    height: 750px;
+    
+}
